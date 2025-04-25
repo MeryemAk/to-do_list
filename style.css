@@ -22,3 +22,7 @@ li{
 #form{
     text-align: center;
 }
+
+.pomodoro{
+    transform: scale(0.5);
+}

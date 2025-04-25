@@ -48,5 +48,10 @@ if (isset($_GET['delete'])) {
         }
         ?>
     </ul>
+
+    <div class="pomodoro">
+    <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+    <div class="commonninja_component pid-38a72caa-2b4a-49f0-8cf1-43a7e6eabb86"></div>
+    </div>
 </body> 
 </html>
